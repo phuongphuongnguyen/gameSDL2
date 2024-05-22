@@ -3,7 +3,7 @@ GAME: " Cảnh sát tuần tra"
    MSSV:23021668
 2. Giới thiệu tổng quát về game:
    Một tựa game đua xe 2D. Xe của bạn sẽ sử dụng các phím mũi tên ( lên xuống, trái phải) để di chuyển và vượt qua các chướng ngại vật và thu thập các đồng tiền vàng trên đường đi. Điểm của bạn chính là tổng số xu bạn ăn được trên đường đi. Game kết thúc khi bạn đâm phải chướng ngại vật.
-3. Ngưỡng điểm mong muốn: 8-8.5
+3. Ngưỡng điểm mong muốn: 8.5
 4. Tính năng trong game:
    Game có đầy đủ tính năng của một game cơ bản:
    - Âm thanh: có thể bật tắt âm thanh.
